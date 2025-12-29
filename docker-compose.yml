@@ -11,6 +11,9 @@
 #                                                            #
 #          DAMP - Docker, Apache, MariaDB, PHP               #
 #                                                            #
+# Developed by : Protyay Kumar Pramanik                      #
+# Repository   : https://github.com/propmk/damp              #
+# License      : GPLv3                                       #
 ##############################################################
 
 services:
